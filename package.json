@@ -1,0 +1,19 @@
+{
+  "name": "game-release-info-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for game release information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasrintoul/game-release-info-scraper.git"
+  },
+  "author": "Douglas Rintoul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasrintoul/game-release-info-scraper/issues"
+  },
+  "homepage": "https://github.com/douglasrintoul/game-release-info-scraper#readme"
+}
